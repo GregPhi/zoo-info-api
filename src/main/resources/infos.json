@@ -1,0 +1,77 @@
+{
+  "name":"Parc zoologique de Lille",
+  "hours":{
+    "summer":{
+      "open_hour_week_summer":10,
+      "close_hour_week_summer":18,
+      "close_hour_weekend_summer":19,
+      "close_day_summer":"Mardi"
+    },
+    "winter":{
+      "open_hour_week_winter":10,
+      "close_hour_week_winter":18,
+      "close_day_winter":"Mardi"
+    },
+    "exceptional_opening":[
+      "2020-11-01T23:00:00.000+00:00"
+    ],
+    "annual_closure_oldYear":"2020-11-29T23:00:00.000+00:00",
+    "annual_closure_newYear":"2021-02-19T23:00:00.000+00:00"
+  },
+  "address":{
+    "address":"Avenue Mathias Delobel",
+    "zip_code":59000,
+    "street":"Lille"
+  },
+  "contact":{
+    "mail":"zoolille@mairie-lille.fr",
+    "number":"0328520700"
+  },
+  "access":{
+    "description":"Le zoo de Lille est situé dans le parc de la Citadelle, avenue Mathias Delobel.",
+    "access_auto":[
+      "Par l’A1 et l’A22 : suivre Lille centre, le zoo se trouve au bout du boulevard de la Liberté",
+      "Par l’A25 : sortie 5 Port Fluvial, suivre Vauban-Citadelle"
+    ],
+    "access_bus":[
+      "Bus Liane 1 : arrêt Champ de Mars",
+      "Bus Liane 90 : arrêt Champ de Mars",
+      "Bus Liane 12 : arrêt Jardin Vauban"
+    ],
+    "access_metro":[
+      "Métro ligne 1 : station République (à 15 minutes à pied)"
+    ],
+    "access_vlille":[
+      "V’Lille : station Jardin Vauban à 1 minute"
+    ],
+    "zooPosition":{
+      "longitude":3.04,
+      "latitude":50.63
+    }
+  },
+  "prices":{
+    "prices_one_day":[
+      "Adulte : 4 €",
+      "Enfant (de 5 à 17 ans inclus) : 2 €",
+      "Résidents de Lille, Lomme ou Hellemmes munis du Pass zoo, enfants de - 5 ans : gratuit",
+      "Billet 2+2 (2 adultes + 2 enfants) : 10 € (enfant supplémentaire : 1,50 €)",
+      "Personnes en situation de handicap (sur présentation d’un justificatif : carte européenne de stationnement ou justificatif officiel d'invalidité) : adulte 3 € - enfant 1,50 € (de 5 à 17 ans inclus)"
+    ],
+    "prices_one_year":[
+      "Adulte : 14 €",
+      "Enfant (de 5 à 17 ans inclus) : 8 €",
+      "Famille (2 adultes + 3 enfants max.) : 36 €"
+    ],
+    "prices_on_group":[
+      "A partir de 8 personnes :",
+      "Adulte : 3 €",
+      "Enfant (de 5 à 17 ans inclus) : 1,50 €"
+    ],
+    "prices_free":[
+      "Résidents de Lille, Lomme ou Hellemmes munis du Pass zoo (édition en ligne sur pass-zoo.lille.fr), enfants de - 5 ans",
+      "Ecoles maternelles et élémentaires, centres de loisirs, centres sociaux et maisons de quartier situés sur le territoire de Lille, Lomme ou Hellemmes",
+      "Professionnels des réseaux des parcs zoologiques (AFDPZ, EAZA, personnel des parcs zoologiques...)",
+      "* sur présentation d'un justificatif"
+    ]
+  }
+}
